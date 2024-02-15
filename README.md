@@ -33,10 +33,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joaovictor1205/joaovictor1205/output/snake.svg" alt="Snake animation" />
-
-###
